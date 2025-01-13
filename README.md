@@ -1,2 +1,2 @@
 # Gender_Identification
-Doing An Gender_Identification through (namsor API)
+Doing An Gender_Identification through (NamSor API)
